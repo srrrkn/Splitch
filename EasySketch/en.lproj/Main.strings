@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "COL:"; ObjectID = "1FM-pV-9Fr"; */
+"1FM-pV-9Fr.text" = "COL:";
+
+/* Class = "UILabel"; text = "1グリッドの大きさを指定してください"; ObjectID = "1nP-5O-JzO"; */
+"1nP-5O-JzO.text" = "1グリッドの大きさを指定してください";
+
+/* Class = "UILabel"; text = "ROW:"; ObjectID = "3R5-cO-5v5"; */
+"3R5-cO-5v5.text" = "ROW:";
+
+/* Class = "UILabel"; text = "NOW"; ObjectID = "BoW-bX-VI5"; */
+"BoW-bX-VI5.text" = "NOW";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "DRQ-p2-WoZ"; */
+"DRQ-p2-WoZ.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "Ela-tH-0xf"; */
+"Ela-tH-0xf.text" = "TOTAL";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Jsy-vX-UqT"; */
+"Jsy-vX-UqT.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "c"; ObjectID = "NbP-1w-GmA"; */
+"NbP-1w-GmA.text" = "c";
+
+/* Class = "UILabel"; text = "r"; ObjectID = "bmc-cB-CtR"; */
+"bmc-cB-CtR.text" = "r";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "evK-0Y-u5a"; */
+"evK-0Y-u5a.text" = "/";
+
+/* Class = "UILabel"; text = "Gide:"; ObjectID = "hCU-7N-Qfw"; */
+"hCU-7N-Qfw.text" = "Gide:";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "kRH-Vq-fBc"; */
+"kRH-Vq-fBc.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "EasySketch"; ObjectID = "mNx-jN-418"; */
+"mNx-jN-418.text" = "EasySketch";
+
+/* Class = "UIButton"; normalTitle = "ON"; ObjectID = "qka-F4-iEJ"; */
+"qka-F4-iEJ.normalTitle" = "ON";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sin-J9-GNS"; */
+"sin-J9-GNS.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "wa1-QP-zRR"; */
+"wa1-QP-zRR.normalTitle" = "Next";
